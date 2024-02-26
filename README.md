@@ -9,3 +9,7 @@ Using regression algorithms like linear regression, decision tree, random forest
 Evaluation metrics such as mean squared error (MSE) and R-squared (R2) score were used to assess the model's accuracy. 
 
 The food delivery time prediction model empowers businesses to optimize their operations and improve the overall delivery experience for their customers.
+## About "Y-DATAPROFILING"
+A simple description of y-dataprofiling is that it is a tool that helps users visually observe the statistics of data.
+
+I haven't found a way to upload it for everyone to see, so I'm really sorry for not sharing its interesting aspects with everyone. I'll leave a picture so that people can have a better idea
