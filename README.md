@@ -13,3 +13,7 @@ The food delivery time prediction model empowers businesses to optimize their op
 A simple description of y-dataprofiling is that it is a tool that helps users visually observe the statistics of data.
 
 I haven't found a way to upload it for everyone to see, so I'm really sorry for not sharing its interesting aspects with everyone. I'll leave a picture so that people can have a better idea
+
+![Screenshot 2024-02-26 144645](https://github.com/eugenenguyn/Food_Delivery_Time_Prediction/assets/134667107/8e8f9d53-0838-4f77-8333-5443e91049b9)
+
+Read more about y-dataprofiling : https://github.com/ydataai/ydata-profiling
